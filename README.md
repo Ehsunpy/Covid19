@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Islamic_Azad_University_Logo.svg/768px-Islamic_Azad_University_Logo.svg.png" alt="Islamic Azad University North Tehran Branch" width="150"/>
+  <img src=https://upload.wikimedia.org/wikipedia/fa/3/39/Tehranshomallogo.png" alt="Islamic Azad University North Tehran Branch" width="150"/>
 </p>
 
 <h1 align="center">COVID-SegNet: Encoder–Decoder-Based Architecture for COVID-19 Lesion Segmentation in Chest X-Ray</h1>
